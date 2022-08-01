@@ -2,8 +2,8 @@ org/springframework/samples/petclinic/web/VisitController.class
 org/springframework/samples/petclinic/repository/jdbc/JdbcPetVisitExtractor.class
 org/springframework/samples/petclinic/repository/jpa/JpaVetRepositoryImpl.class
 org/springframework/samples/petclinic/model/Person.class
-org/springframework/samples/petclinic/model/Visit.class
 org/springframework/samples/petclinic/repository/jpa/JpaOwnerRepositoryImpl.class
+org/springframework/samples/petclinic/model/Visit.class
 org/springframework/samples/petclinic/model/PetType.class
 org/springframework/samples/petclinic/util/CallMonitoringAspect.class
 org/springframework/samples/petclinic/model/Vet.class
@@ -33,8 +33,8 @@ org/springframework/samples/petclinic/repository/jdbc/JdbcPetRowMapper.class
 org/springframework/samples/petclinic/web/VetController.class
 org/springframework/samples/petclinic/repository/springdatajpa/SpringDataVisitRepository.class
 org/springframework/samples/petclinic/repository/jdbc/JdbcOwnerRepositoryImpl.class
-org/springframework/samples/petclinic/model/Vets.class
 org/springframework/samples/petclinic/repository/PetRepository.class
+org/springframework/samples/petclinic/model/Vets.class
 org/springframework/samples/petclinic/repository/springdatajpa/SpringDataVetRepository.class
 org/springframework/samples/petclinic/model/NamedEntity.class
 org/springframework/samples/petclinic/repository/jdbc/JdbcVisitRepositoryImpl.class
